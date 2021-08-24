@@ -1,6 +1,6 @@
 name: kiru
 
-on: workflow_dispatch
+run: workflow_dispatch
 
 jobs:
   build:
